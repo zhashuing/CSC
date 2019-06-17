@@ -16,7 +16,7 @@
 
 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [Java核心](#JavaCore) | [并发编程](#JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#常用框架第三方组件)|[OS](#操作系统核心)| [DB](#数据库理论与实践) |[算法](#数据结构与算法)|[高性能组件](#高性能组件)| [杂项](#其他技术)|[联系我](#联系作者) |
+| [Java核心](#JavaCore) | [并发编程](#并发编程\JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#常用框架第三方组件)|[OS](#操作系统核心)| [DB](#数据库理论与实践) |[算法](#数据结构与算法)|[高性能组件](#高性能组件)| [杂项](#其他技术)|[联系我](#联系作者) |
 
 
 
@@ -27,7 +27,7 @@
 - [HashSet](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/HashSet.md)
 - [LinkedHashMap](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/LinkedHashMap.md)
 
-### 并发编程/JUC核心
+### 并发编程\JUC核心
 - [多线程中的常见问题](https://github.com/crossoverJie/JCSprout/blob/master/MD/Thread-common-problem.md)
 - [synchronized 关键字原理](https://github.com/crossoverJie/JCSprout/blob/master/MD/Synchronize.md)
 - [多线程的三大核心](https://github.com/crossoverJie/JCSprout/blob/master/MD/Threadcore.md)
