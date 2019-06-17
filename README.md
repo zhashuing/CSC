@@ -64,7 +64,7 @@
 
 
 ### 操作系统
-- [操作系统中的进程、线程](https://github.com/zhashuing/zhashuing.github.io/blob/master/_posts/OperationSystem/%E8%BF%9B%E7%A8%8B.md)
+- [操作系统中的进程、线程](https://github.com/zhashuing/zhashuing.github.io/blob/master/_posts/OperationSystem/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E8%BF%9B%E7%A8%8B%E3%80%81%E7%BA%BF%E7%A8%8B.md)
 
 ### 数据库理论与实践
 
