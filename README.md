@@ -107,4 +107,4 @@
 
 
 
-![fd](/home/zhashu/workspace/study/write/zhashuing.github.io/img/77980-1920x1080.jpg)
+![fd](<https://github.com/zhashuing/zhashuing.github.io/blob/master/img/77980-1920x1080.jpg>)
