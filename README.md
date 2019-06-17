@@ -15,7 +15,7 @@
 
 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [Java核心](#Java核心) | [并发编程](#并发编程/JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#第三方组件)|[操作系统](#操作系统)| [数据库](#数据库理论与实践) |[数据结构与算法](#数据结构与算法)|[高性能组件](#高性能组件)| [技术杂项](#技术杂项/附加技能)|[联系作者](#联系作者) |
+| [Java核心](#Java核心) | [并发编程](#并发编程和JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#第三方组件)|[操作系统](#操作系统)| [数据库](#数据库理论与实践) |[数据结构与算法](#数据结构与算法)|[高性能组件](#高性能组件)| [技术杂项](#技术杂项及附加技能)|[联系作者](#联系作者) |
 
 
 
@@ -26,7 +26,7 @@
 - [HashSet](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/HashSet.md)
 - [LinkedHashMap](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/LinkedHashMap.md)
 
-### 并发编程/JUC核心
+### 并发编程和JUC核心
 - [多线程中的常见问题](https://github.com/crossoverJie/JCSprout/blob/master/MD/Thread-common-problem.md)
 - [synchronized 关键字原理](https://github.com/crossoverJie/JCSprout/blob/master/MD/Synchronize.md)
 - [多线程的三大核心](https://github.com/crossoverJie/JCSprout/blob/master/MD/Threadcore.md)
@@ -90,7 +90,7 @@
 - [SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/)
 - [从线程模型的角度看 Netty 为什么是高性能的？](https://crossoverjie.top/2018/07/04/netty/Netty(2)Thread-model/)
 
-### 技术杂项/附加技能
+### 技术杂项及附加技能
 
 - [TCP/IP 协议](https://github.com/crossoverJie/JCSprout/blob/master/MD/TCP-IP.md)
 - [一个学渣的阿里之路](https://crossoverjie.top/2018/06/21/personal/Interview-experience/)
