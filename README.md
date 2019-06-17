@@ -1,7 +1,7 @@
 
 <div align="center">  
 
-<img src="https://github.com/zhashuing/zhashuing.github.io/blob/master/img/JC.jpeg" width=""/> 
+<img src="img/JC.jpeg" width=""/> 
 <br/>
 
 </div><br>
