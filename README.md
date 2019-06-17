@@ -64,7 +64,7 @@
 
 
 ### 操作系统
-- [操作系统中的进程、线程](https://github.com/crossoverJie/JCSprout/blob/master/MD/MySQL-Index.md)
+- [操作系统中的进程、线程](https://github.com/zhashuing/zhashuing.github.io/blob/master/_posts/OperationSystem/%E8%BF%9B%E7%A8%8B.md)
 
 ### 数据库理论与实践
 
