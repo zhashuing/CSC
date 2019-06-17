@@ -4,10 +4,6 @@
 <img src="https://ws1.sinaimg.cn/large/0069RVTdly1fubocn5pxaj30go082dg1.jpg" width=""/> 
 <br/>
 
-[![Build Status](https://travis-ci.org/crossoverJie/JCSprout.svg?branch=master)](https://travis-ci.org/crossoverJie/JCSprout)
-</div><br>
-
-
 > `系统的的Java知识体系`
 
 
