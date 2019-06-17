@@ -15,11 +15,11 @@
 
 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [Java核心](#Java核心) | [并发编程](#并发编程和JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#第三方组件)|[操作系统](#操作系统)| [数据库](#数据库理论与实践) |[数据结构与算法](#数据结构与算法)|[高性能组件](#高性能组件)| [技术杂项](#技术杂项及附加技能)|[联系作者](#联系作者) |
+| [Java核心](#JavaCore) | [并发编程](#并发编程和JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#第三方组件)|[操作系统](#操作系统)| [数据库](#数据库理论与实践) |[数据结构与算法](#数据结构与算法)|[高性能组件](#高性能组件)| [技术杂项](#技术杂项及附加技能)|[联系作者](#联系作者) |
 
 
 
-### Java核心
+### JavaCore
 - [ArrayList/Vector](https://github.com/crossoverJie/JCSprout/blob/master/MD/ArrayList.md)
 - [LinkedList](https://github.com/crossoverJie/JCSprout/blob/master/MD/LinkedList.md)
 - [HashMap](https://github.com/crossoverJie/JCSprout/blob/master/MD/HashMap.md)
