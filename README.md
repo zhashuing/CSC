@@ -5,12 +5,10 @@
 <br/>
 
 [![Build Status](https://travis-ci.org/crossoverJie/JCSprout.svg?branch=master)](https://travis-ci.org/crossoverJie/JCSprout)
-[![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg)](https://jq.qq.com/?_wv=1027&k=5HPYvQk)
-
 </div><br>
 
 
-> `Java Core Sprout`：处于萌芽阶段的 Java 核心知识库。
+> `系统的的Java知识体系`
 
 
 <br/>
@@ -18,18 +16,18 @@
 
 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | 🌈 |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
-| [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
+| [Java核心](#Java Core) | [并发编程](#并发编程/JUC核心)|[JVM](#JVM) | [分布式](#分布式理论与实践) |[框架](#常用框架第三方组件)|[操作系统](#操作系统核心)| [数据库](#数据库理论与实践) |[算法](#数据结构与算法)|[高性能组件](#高性能组件)| [附加技能](#附加技能)|[联系我](#联系作者) |
 
 
 
-### 常用集合
+### Java Core
 - [ArrayList/Vector](https://github.com/crossoverJie/JCSprout/blob/master/MD/ArrayList.md)
 - [LinkedList](https://github.com/crossoverJie/JCSprout/blob/master/MD/LinkedList.md)
 - [HashMap](https://github.com/crossoverJie/JCSprout/blob/master/MD/HashMap.md)
 - [HashSet](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/HashSet.md)
 - [LinkedHashMap](https://github.com/crossoverJie/JCSprout/blob/master/MD/collection/LinkedHashMap.md)
 
-### Java 多线程
+### 并发编程/JUC核心
 - [多线程中的常见问题](https://github.com/crossoverJie/JCSprout/blob/master/MD/Thread-common-problem.md)
 - [synchronized 关键字原理](https://github.com/crossoverJie/JCSprout/blob/master/MD/Synchronize.md)
 - [多线程的三大核心](https://github.com/crossoverJie/JCSprout/blob/master/MD/Threadcore.md)
@@ -49,7 +47,7 @@
 - [你应该知道的 volatile 关键字](https://github.com/crossoverJie/JCSprout/blob/master/MD/concurrent/volatile.md)
 - [一次内存溢出排查优化实战](https://crossoverjie.top/2018/08/29/java-senior/OOM-Disruptor/)
 
-### 分布式相关
+### 分布式理论与实践
 
 - [分布式限流](http://crossoverjie.top/2018/04/28/sbc/sbc7-Distributed-Limit/)
 - [基于 Redis 的分布式锁](http://crossoverjie.top/2018/03/29/distributed-lock/distributed-lock-redis/)
@@ -66,12 +64,12 @@
 - Tomcat 类加载机制
 
 
-### 架构设计
+### 操作系统核心
 - [秒杀系统设计](https://github.com/crossoverJie/JCSprout/blob/master/MD/Spike.md)
 - [秒杀架构实践](http://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/)
 - [设计一个百万级的消息推送系统](https://github.com/crossoverJie/JCSprout/blob/master/MD/architecture-design/million-sms-push.md)
 
-### DB 相关
+### 数据库理论与实践
 
 - [MySQL 索引原理](https://github.com/crossoverJie/JCSprout/blob/master/MD/MySQL-Index.md)
 - [SQL 优化](https://github.com/crossoverJie/JCSprout/blob/master/MD/SQL-optimization.md)
@@ -92,7 +90,7 @@
 - [链表排序](./src/main/java/com/crossoverjie/algorithm/LinkedListMergeSort.java)
 - [数组右移 k 次](./src/main/java/com/crossoverjie/algorithm/ArrayKShift.java)
 
-### Netty 相关
+### 高性能组件
 - [SpringBoot 整合长连接心跳机制](https://crossoverjie.top/2018/05/24/netty/Netty(1)TCP-Heartbeat/)
 - [从线程模型的角度看 Netty 为什么是高性能的？](https://crossoverjie.top/2018/07/04/netty/Netty(2)Thread-model/)
 
